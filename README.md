@@ -10,11 +10,13 @@ The Hero widget, as stated in the official documentation, is
 
 A hero animation can happen in a transition between two screens that share a visual element. If there is one (or more) shared elements that fly from first to second screen, is considered to be a hero animation. 
 For example
-![Hero widget demo](https://i.imgur.com/Vdsu8yM.gif)
+[![Hero widget demo](https://img.youtube.com/vi/tHD5WEEqcS4/0.jpg)](https://www.youtube.com/watch?v=tHD5WEEqcS4)
 
-![Hero widget demo with ClipRRect](https://i.imgur.com/i5nTWSH.gif)
+[![Hero widget demo with ClipRRect](https://img.youtube.com/vi/OlY3aCAm_QE/0.jpg)](https://www.youtube.com/watch?v=OlY3aCAm_QE)
 
-![Hero widget demo with ClipOval](https://i.imgur.com/v1TScSg.gif)
+[![Hero widget demo with ClipOval](https://img.youtube.com/vi/i2iqlb9Fh7Q/0.jpg)](https://www.youtube.com/watch?v=i2iqlb9Fh7Q)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
