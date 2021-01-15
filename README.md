@@ -1,8 +1,8 @@
 # Hero widget 🦸🏻‍♀️
 
-## What is the Hero widget?
+## What is the `Hero` widget?
 
-The Hero widget, as stated in the official documentation, is
+The `Hero` widget, as stated in the official documentation, is
 
 >a widget that marks its child as being a candidate for hero animations.
 
@@ -39,7 +39,7 @@ children: [
 
 ## But wait, there's more!
 
-Sharp borders are boring, I'm sure you will set some material-ish borders to your images. And when it comes to borders, the `Hero` widget is there to help you. Actually, you don't need to do anything else than wrapping your hero'ed widget within a `ClipXXXX` widget and customize the borders as you like.
+Sharp borders are boring, I'm sure you will set some material-ish borders to your images. And when it comes to borders, the `Hero` widget is there to help you. Actually, you don't need to do anything else than wrapping your hero'ed widget within a `ClipXXXX` widget and customize the borders as you like. Note that no modifications are required on the `Hero` widget in the end screen.
 
 In this demo we'll see the two most usual ones: `ClipRRect` and `ClipOval`.
 
